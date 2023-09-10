@@ -2,6 +2,7 @@
 
 <!--
   <<< Author notes: Course header >>>
+  Testing :)
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -23,7 +24,7 @@ _Create a GitHub Action and use it in a workflow._
 
 _You've now got a fully functioning workflow! :smile:_
 
-Your new action will run any time a pull request has been opened.
+Your new action will run any time a pull request has been opened. 🥇
 
 **Seeing your _action_ in action**: The status of your action is shown in a pull request before you merge, look for **All checks have passed** when you try out the steps below. You can also view them from the **Actions** tab in your repository. From there, you will see all the actions that have run, and you can click on each action to view details and access log files.
 
